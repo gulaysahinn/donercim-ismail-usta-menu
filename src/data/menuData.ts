@@ -1,5 +1,8 @@
-// Menü verilerimizi kategorilere ayırarak yapılandırıyoruz.
-export const menuData = [
+// Az önce oluşturduğumuz tipleri import ediyoruz
+import type { IMenuCategory } from '../types/types';
+
+// TypeScript'e bu verinin IMenuCategory dizisi olduğunu söylüyoruz
+export const menuData: IMenuCategory[] = [
   {
     category: "Tavuk Döner",
     slug: "tavuk_doner",
