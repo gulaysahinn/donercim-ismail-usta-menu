@@ -75,14 +75,14 @@ export const menuData: IMenuCategory[] = [
         name: "Adana Dürüm",
         weight: "120gr",
         price: 200,
-        image: "images/adanadurum.webp",
+        image: "images/urfadurum.jpeg",
         description: "İçerisinde Yeşillik, Domates ve Soğan Bulunur. ",
       },
       {
         name: "Urfa Dürüm",
         weight: "120gr",
         price: 200,
-        image: "images/fırınsutlac.jpg",
+        image: "images/urfadurum.jpeg",
         description: "İçerisinde Yeşillik, Domates ve Soğan Bulunur. ",
       },
       {
