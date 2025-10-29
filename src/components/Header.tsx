@@ -1,5 +1,3 @@
-// 'import React' satırını kaldırdık
-
 function Header() {
   return (
     <header className="bg-gray-900/70 backdrop-blur-sm text-white p-6 shadow-md text-center sticky top-0 z-50">
@@ -9,7 +7,7 @@ function Header() {
           DÖNERCİM İSMAİL USTA
         </h1>
         <p className="text-xl text-gray-300">
-          ET VE MANGAL
+          ET & MANGAL
         </p>
         <p className="text-sm italic text-gray-400 mt-2">
           Made with Love, Served with Proud
