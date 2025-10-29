@@ -68,7 +68,7 @@ export const menuData: IMenuCategory[] = [
         name: "Köfte Dürüm",
         weight: "150gr",
         price: 200,
-        image: "images/fırınsutlac.jpg",
+        image: "images/urfadurum.jpeg",
         description: "İçerisinde Yeşillik, Domates ve Soğan Bulunur. ",
       },
       {
