@@ -89,7 +89,7 @@ export const menuData: IMenuCategory[] = [
         name: "Tavuk Şiş Dürüm",
         weight: "90gr",
         price: 150,
-        image: "images/fırınsutlac.jpg",
+        image: "images/sisdurum.jpeg",
         description: "İçerisinde Yeşillik, Domates ve Soğan Bulunur. ",
       },
       {
@@ -158,7 +158,7 @@ export const menuData: IMenuCategory[] = [
         name: "Tavuk Yaprak Kanat Porsiyon",
         weight: null,
         price: 300,
-        image: "images/fırınsutlac.jpg",
+        image: "images/ykanatpor.jpeg",
         description: "Yanında Pilav, Köz Domates ve Biber ile servis edilir.",
       },
       {
